@@ -26,10 +26,5 @@ int main() {
     // Assign using initializer list
     std::array<int, 5> myarray4;
     myarray4.fill(4);
-
-
     return 0;
-
-
-
 }

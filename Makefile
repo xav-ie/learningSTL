@@ -1,6 +1,6 @@
 CC=g++
 CFLAGS=-Wall -g -std=c++17
-BINS=stdarray stdvector vectorPractices stdset containers
+BINS=stdarray stdvector vectorPractices stdset containers matrices
 
 all: $(BINS)
 clean:
